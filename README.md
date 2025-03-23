@@ -2,8 +2,6 @@
 
 Bu repository, XSS (Cross-Site Scripting) güvenlik açığını gösteren basit bir Flask web uygulamasını içermektedir. Uygulama, kullanıcıların yorum bırakabildiği ve bu yorumların listelenebildiği basit bir sistemdir.
 
-## Güvenlik Zafiyeti ve Zfiyet türü
-
 ## Zafiyet detayları
 OWASP Kategorisi: A7:2021 - Cross-Site Scripting (XSS)
 Referans: OWASP XSS
