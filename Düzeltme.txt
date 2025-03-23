@@ -1,0 +1,2 @@
+Düzeltme
+Düzeltilmiş kodda (fixed_app.py), kullanıcı girdileri html.escape() fonksiyonu ile temizlenmekte ve |safe filtresi kaldırılmaktadır. Bu sayede, kullanıcı girdisindeki HTML karakterleri (<, >, &, ", ') karşılık gelen HTML varlıklarına dönüştürülür ve tarayıcı tarafından kod olarak değil, metin olarak yorumlanır.
