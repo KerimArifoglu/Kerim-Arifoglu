@@ -14,5 +14,5 @@ Bu uygulamadaki XSS zafiyeti, kullanıcı tarafından girilen yorumların hiçbi
 
 
 
-https://github.com/user-attachments/assets/33759dd4-5805-41f5-bef6-0e6bc374c779 <video src=ordakilink />
+https://github.com/user-attachments/assets/33759dd4-5805-41f5-bef6-0e6bc374c779<video src=ordakilink />
 
