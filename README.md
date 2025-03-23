@@ -11,3 +11,8 @@ Vector String: CVSS:3.1/AV/AC/PR/UI/S/C/I/A
 
 ## Zafiyet Açıklaması
 Bu uygulamadaki XSS zafiyeti, kullanıcı tarafından girilen yorumların hiçbir sanitizasyon işlemi uygulanmadan doğrudan web sayfasında görüntülenmesinden kaynaklanmaktadır. Zafiyet içeren kodda (vulnerable_app.py), kullanıcı tarafından girilen yorumlar, Jinja2 şablonunda |safe filtresinden geçirilerek HTML'e dönüştürülmeden doğrudan yerleştirilmektedir. Bu durum, kötü niyetli kullanıcıların HTML ve JavaScript kodu enjekte etmesine olanak tanır.
+
+
+
+https://github.com/user-attachments/assets/33759dd4-5805-41f5-bef6-0e6bc374c779 <video src=ordakilink />
+
